@@ -1,0 +1,17 @@
+#hello,
+#numbers,
+#even,
+#print,
+#multiply,
+#factorial {
+    color: rgb(65, 176, 65);
+}
+
+#print,
+#multiply {
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: none;
+}
